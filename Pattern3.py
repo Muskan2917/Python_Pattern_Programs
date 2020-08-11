@@ -1,5 +1,5 @@
 """
-A Program To Print The Following Star(*) Pattern Using While Loop
+A Program To Print The Following Star(*) Pattern
 
 * * * * * 
 * * * * * 
